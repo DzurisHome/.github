@@ -11,7 +11,7 @@ Dzuriš Home is a project focused on Smart Home, IoT, Networking, CCTV, with a s
 
 - 🏠 [TuYa Data Points](https://github.com/DzurisHome/Tuya-Data-Points): TuYa Data Points for configuration.
 - ⚙️ [Reffos P11](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11): Tasmota Template for Reffos Plug.
-- 🏡 [Local TuYa](https://github.com/DzurisHome/Tuya-Data-Points): Local TuYa 🇸🇰 Tutorial configuration for Home Assistant.
+- 🏡 [Local TuYa](https://github.com/DzurisHome/LocalTuyaSK): Local TuYa 🇸🇰 Tutorial configuration for Home Assistant.
 
 ## 🌐 Connect with Me
 

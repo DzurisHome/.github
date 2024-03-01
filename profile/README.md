@@ -11,7 +11,7 @@ Dzuriš Home is a project focused on Smart Home, IoT, Networking, CCTV, with a s
 
 - 🌡️ [ESPHome IKEA VINDRIKTNING](https://github.com/DzurisHome/ESPHome-IKEA-VINDRIKTNING): How to make IKEA VINDRIKTNING Smart.
 - 🏠 [TuYa Data Points](https://github.com/DzurisHome/Tuya-Data-Points): TuYa Data Points for configuration.
-- ⚙️ [Reffos P11](https://github.com/DzurisHome/Tasmota-Template-Refoss-P11): Tasmota Template for Reffos Plug.
+- ⚙️ [Reffos P11](https://github.com/DzurisHome/ESPHome-Refoss-P11): ESPHome Config | Firmware for Reffos Plug.
 - 🏡 [Local TuYa](https://github.com/DzurisHome/LocalTuyaSK): Local TuYa 🇸🇰 Tutorial configuration for Home Assistant.
 
 ## 🌐 Connect with Me
